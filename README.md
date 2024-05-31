@@ -6,13 +6,9 @@ Hkw this side harshal
 <head>
 <title>Page Title</title>
   <style>
-    #myid{
-    text-align:center;
-    background-color:black;
-    
-
-      
-     } 
+    div{ 
+    background-color:yellow;
+   } 
     
   </style>
 </head>
