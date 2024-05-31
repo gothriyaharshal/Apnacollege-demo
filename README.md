@@ -4,6 +4,7 @@ Hkw this side harshal
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset ="utf-8">
 <title>Page Title</title>
   <style>
     div{ 
@@ -13,7 +14,7 @@ Hkw this side harshal
   </style>
 </head>
 <body>
-<div id="myid" >
+<div>
   This is my container
 </div>
 
